@@ -1,0 +1,97 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+}
+.about{
+	width: 100%;
+	padding: 78px 0px;
+}
+.about img{
+	height: auto;
+	width: 420px;
+}
+.about-text{
+	width: 550px;
+}
+.main{
+	width: 1130px;
+	max-width: 95%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.about-text h1{
+    color: black;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.about-text h5{
+	color: black;
+	font-size: 20px;
+	margin-bottom: 25px;
+	letter-spacing: 2px;
+}
+.spain{
+	width: 100%;
+	padding: 78px 0px;
+}
+.spain img{
+	height: auto;
+	width: 420px;
+}
+.spain-text{
+	width: 550px;
+}
+
+.spain-text h1{
+	  color: black;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+	.austria {
+	width: 100%;
+	padding: 78px 0px;
+}
+
+.austria img{
+	height: auto;
+	width: 420px;
+}
+.austria-text{
+	width: 550px;
+}
+
+.austria-text h1{
+	  color: black;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+
+
+span{
+	color: #85CAFF;
+}
+button{
+	background: #85CAFF;
+	color: white;
+	border: 2px solid transparent;
+	padding: 8px 10px;
+	border-radius: 30px;
+	transition: .4s;
+}
+button:hover{
+	color: black;
+	background: transparent;
+	border: 2px solid #85CAFF;
+}.container-fluid .austria #accordion1 {
+    text-align: center;
+    padding-right: 0px;
+    padding-left: 0px;
+}
